@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/c2c96409-108f-4e08-bfc5-7348b2c13d2b" width="100%" alt="header">
+![header](https://github.com/user-attachments/assets/23ef06f3-ec00-4cd9-910c-6ff906b5be08)
 
 <div align="center">
   <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=danayim03&utm_content=line">
